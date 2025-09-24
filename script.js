@@ -1,6 +1,10 @@
 (function () {
   'use strict';
 
+  // TEST
+  console.log("TEST script.js")
+
+  
   // Key map
   const ENTER = 13;
   const ESCAPE = 27;
